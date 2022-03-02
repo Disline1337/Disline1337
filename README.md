@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Disline1337
 - 👀 I’m interested in game hacking
 - 🌱 I’m currently learning C++ and reverse
-- 💞️ I’m currently collaborate with vosteam
+- 💞️ I’m currently collaborate with //nothing//...
 - 📫 How to reach me 
 - 📫 t.me/Disline1337
 - 📫 vk.com/Disline
