@@ -4,8 +4,8 @@
 - 💞️ I’m currently collaborate with //nothing//...
 - 📫 How to reach me 
 - 📫 telegram - t.me/Disline1337
-- 📫 vk - vk.com/anarchydev
-- 📫 discord - Disline#3837
+- 📫 vk - vk.com/Disline
+- 📫 discord - Kuka#3837
 
 <!---
 Disline1337/Disline1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
