@@ -11,3 +11,5 @@
 Disline1337/Disline1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+some info
+[Disline's stats](https://github-readme-stats.vercel.app/api?username=Disline1337&theme=panda&show_icons=true)
