@@ -13,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Disline's stats](https://github-readme-stats.vercel.app/api?username=Disline1337&theme=panda&show_icons=true)
 
+![Disline's waka stats](https://wakatime.com/@Disline1337)
+
 hehe....
