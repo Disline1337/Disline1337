@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++ and asm(reverse engineering)
 - 💞️ I’m currently collaborate with //nothing//...
 - 📫 How to reach me 
-- 📫 telegram - t.me/Disline1337
-- 📫 vk - vk.com/Disline
+- 📫 [telegram](https://t.me/Disline1337)
+- 📫 [Vk](https://vk.com/Disline)
 - 📫 discord - Disline#3837
 
 <!---
