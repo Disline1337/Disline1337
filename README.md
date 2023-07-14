@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - 📫 [telegram](https://t.me/Disline1337)
 - 📫 [Vk](https://vk.com/Disline)
-- 📫 discord - Disline#3837
+- 📫 discord - disline
 
 <!---
 Disline1337/Disline1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
