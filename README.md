@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Disline1337&layout=compact&theme=monokai)](https://wakatime.com/@Disline1337)
 
-hehe....
+spended
+[![wakatime_stat](https://wakatime.com/badge/user/b368914b-7680-4e81-b429-cd2c046eb8d0.svg?style=flat-square)](https://wakatime.com/@b368914b-7680-4e81-b429-cd2c046eb8d0)
